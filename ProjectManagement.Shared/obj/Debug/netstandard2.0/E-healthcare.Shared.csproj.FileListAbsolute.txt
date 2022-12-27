@@ -1,0 +1,10 @@
+C:\Users\Sahana_Nayak_M\Source\repos\E-healthcare.Api\ProjectManagement.Shared\bin\Debug\netstandard2.0\E-healthcare.Shared.deps.json
+C:\Users\Sahana_Nayak_M\Source\repos\E-healthcare.Api\ProjectManagement.Shared\bin\Debug\netstandard2.0\E-healthcare.Shared.dll
+C:\Users\Sahana_Nayak_M\Source\repos\E-healthcare.Api\ProjectManagement.Shared\bin\Debug\netstandard2.0\E-healthcare.Shared.pdb
+C:\Users\Sahana_Nayak_M\Source\repos\E-healthcare.Api\ProjectManagement.Shared\obj\Debug\netstandard2.0\E-healthcare.Shared.csproj.AssemblyReference.cache
+C:\Users\Sahana_Nayak_M\Source\repos\E-healthcare.Api\ProjectManagement.Shared\obj\Debug\netstandard2.0\E-healthcare.Shared.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Sahana_Nayak_M\Source\repos\E-healthcare.Api\ProjectManagement.Shared\obj\Debug\netstandard2.0\E-healthcare.Shared.AssemblyInfoInputs.cache
+C:\Users\Sahana_Nayak_M\Source\repos\E-healthcare.Api\ProjectManagement.Shared\obj\Debug\netstandard2.0\E-healthcare.Shared.AssemblyInfo.cs
+C:\Users\Sahana_Nayak_M\Source\repos\E-healthcare.Api\ProjectManagement.Shared\obj\Debug\netstandard2.0\E-healthcare.Shared.csproj.CoreCompileInputs.cache
+C:\Users\Sahana_Nayak_M\Source\repos\E-healthcare.Api\ProjectManagement.Shared\obj\Debug\netstandard2.0\E-healthcare.Shared.dll
+C:\Users\Sahana_Nayak_M\Source\repos\E-healthcare.Api\ProjectManagement.Shared\obj\Debug\netstandard2.0\E-healthcare.Shared.pdb
